@@ -1,7 +1,7 @@
 
-  # Responsive Event Ticketing Site (Community)
+  # Setup Vite React TypeScript App
 
-  This is a code bundle for Responsive Event Ticketing Site (Community). The original project is available at https://www.figma.com/design/AEQVDYwWdNEcawMoc95k8U/Responsive-Event-Ticketing-Site--Community-.
+  This is a code bundle for Setup Vite React TypeScript App. The original project is available at https://www.figma.com/design/msxdDaH4Ccundk5qeSnWtG/Setup-Vite-React-TypeScript-App.
 
   ## Running the code
 
